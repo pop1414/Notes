@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Zettelkasten",
-  "attachmentFolderPath": "Files",
+  "newFileFolderPath": "000-Zettelkasten",
+  "attachmentFolderPath": "100-Files",
   "showInlineTitle": false
 }

@@ -1,4 +1,7 @@
 [
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "obsidian-plantuml",
+  "obsidian-linter"
 ]

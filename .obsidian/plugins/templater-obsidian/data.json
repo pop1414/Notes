@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "666-Templates",
   "templates_pairs": [
     [
       "",
@@ -29,7 +29,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Templates/Atomic Note.md"
+    "666-Templates/Atomic Note.md",
+    "666-Templates/Index Note.md"
   ],
   "startup_templates": [
     ""

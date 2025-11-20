@@ -15,5 +15,31 @@
       ],
       "key": "Q"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "workspace:close": [],
+  "templater-obsidian:666-Templates/Index Note.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:666-Templates/Atomic Note.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "server_url": "https://www.plantuml.com/plantuml",
+  "header": "",
+  "debounce": 3,
+  "localJar": "D:\\Dev\\SDKS\\JAR\\plantuml-1.2025.10.jar",
+  "javaPath": "D:\\Dev\\JDK\\jdk-17.0.12\\bin\\java.exe",
+  "dotPath": "D:\\Dev\\SDKS\\JAR\\Graphviz\\bin\\dot.exe",
+  "defaultProcessor": "svg",
+  "cache": 60,
+  "exportPath": "../100-Files/"
+}
