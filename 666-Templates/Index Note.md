@@ -4,6 +4,7 @@ title: INDEX - <% tp.file.title %>
 tags:
   - index
 created: <% tp.date.now("YYYY-MM-DD") %>
+aliases: [] 
 ---
 
 

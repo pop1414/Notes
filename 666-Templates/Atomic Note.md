@@ -5,7 +5,7 @@ tags:
   - zettelkasten
   - permanent-note
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-
+aliases: [] 
 ---
 
 

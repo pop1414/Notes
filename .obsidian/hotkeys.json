@@ -41,5 +41,14 @@
       ],
       "key": "Q"
     }
-  ]
+  ],
+  "templater-obsidian:666-Templates/Relation Note.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": []
 }

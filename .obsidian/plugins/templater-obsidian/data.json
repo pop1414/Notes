@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "666-Templates/Atomic Note.md",
-    "666-Templates/Index Note.md"
+    "666-Templates/Index Note.md",
+    "666-Templates/Relation Note.md"
   ],
   "startup_templates": [
     ""
