@@ -1,13 +1,11 @@
 ---
-id: <% tp.date.now("YYYY") %>R<% tp.date.now("HHmmss") %>   # R = Relation / Combo
+id: <% tp.date.now("YYYY") %>R<% tp.date.now("HHmmss") %>
 title: <% tp.file.title %>
 tags:
   - zettelkasten
-  - relation-note      # 统一标签，后面可以用 Dataview 一键拉出所有关系卡
-  - combo              # 可选：combo / relation / hub / bridge 随便你喜欢
+  - relation-note
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-modified: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-aliases: []                  # 可选：给这张关系卡起个别名，方便搜索
+aliases: []
 ---
 
 # <% tp.file.title %>

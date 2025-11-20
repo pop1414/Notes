@@ -25,7 +25,15 @@
       "key": "C"
     }
   ],
-  "workspace:close": [],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
   "templater-obsidian:666-Templates/Index Note.md": [
     {
       "modifiers": [
@@ -50,5 +58,14 @@
       "key": "E"
     }
   ],
-  "markdown:toggle-preview": []
+  "markdown:toggle-preview": [],
+  "templater-obsidian:666-Templates/idea.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "editor:toggle-italics": []
 }

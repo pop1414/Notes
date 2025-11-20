@@ -1,10 +1,15 @@
+---
+id: <% tp.date.now("YYYY") %>A<% tp.date.now("HHmmss") %>
+title: <% tp.file.title %>
+tags:
+  - zettelkasten
+  - idea
+  - TODO
+created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+aliases: [] 
+---
 
-{{date:YYYY-MM-DD}}
-{{time:HH:mm}}
-Status: #idea
-Tags: 
-
-# {{title}}
+# <% tp.file.title %>
 
 最新更新：`= dateformat(date(today), "yyyy-MM-dd")`
 
