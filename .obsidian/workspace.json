@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "0680cec8d580661b",
+    "type": "split",
+    "children": [
+      {
+        "id": "32babb8246d176cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ddaae11fed4c342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Atomic Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atomic Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5e2e3f8229dee91",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e51392bee9c7fde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf7b66e0af33d475",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8ac3f23a8c89c799",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#idea",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "44afcde8ff119ae8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "right": {
+    "id": "c107c77c59aca0e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6695d09dfb30f31e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "217d4671a2eac4bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/idea.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for idea"
+            }
+          },
+          {
+            "id": "f258da27061d0ee4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "d45dab6addea40fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0b23c3e7a9632955",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "058b73ec08f21764",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettelkasten/未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "c41b0e3cb24fa896",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "bases:创建新数据库": false,
+      "templater-obsidian:Templater": true,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3ddaae11fed4c342",
+  "lastOpenFiles": [
+    "Zettelkasten/null.md",
+    "Zettelkasten/test.md",
+    "Zettelkasten/Untitled.md",
+    "Templates/Atomic Note.md",
+    "Templates/idea.md",
+    "Zettelkasten/未命名.base",
+    "Zettelkasten/未命名 1.base",
+    "Untitled.md",
+    "Templates/Untitled.md",
+    "Templates/Untitled.base",
+    "Zettelkasten/未命名.md",
+    "Reference notes",
+    "Templates",
+    "Zettelkasten",
+    "Files",
+    "欢迎.md",
+    "未命名.base"
+  ]
+}

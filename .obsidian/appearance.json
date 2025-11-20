@@ -1,0 +1,10 @@
+{
+  "interfaceFontFamily": "",
+  "textFontFamily": "Consolas",
+  "cssTheme": "Atom",
+  "accentColor": "#888caa",
+  "monospaceFontFamily": "Consolas",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "baseFontSize": 14
+}
