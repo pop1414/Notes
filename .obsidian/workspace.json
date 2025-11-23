@@ -8,23 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef8e4af7027ff693",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
             "id": "63054fbffbbef651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "000-Zettelkasten/装饰模式.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -46,21 +36,45 @@
             }
           },
           {
-            "id": "ba959bc2d238a6b1",
+            "id": "030237a09836c930",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "89e9bc22df0ef28c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-Reference notes/聚合OR聚集（Aggregation）关系.md",
-                "mode": "preview",
+                "file": "000-Zettelkasten/外观模式.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "聚合OR聚集（Aggregation）关系"
+              "title": "外观模式"
+            }
+          },
+          {
+            "id": "7672bd42a246ea2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Zettelkasten/外观模式代码.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "外观模式代码"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/idea.md",
+                "file": "000-Zettelkasten/装饰模式代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for idea"
+              "title": "装饰模式代码 的反向链接列表"
             }
           },
           {
@@ -152,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "666-Templates/Atomic Word.md",
+                "file": "000-Zettelkasten/装饰模式代码.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Atomic Word 的出链列表"
+              "title": "装饰模式代码 的出链列表"
             }
           },
           {
@@ -235,14 +249,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "058b73ec08f21764",
+  "active": "c41b0e3cb24fa896",
   "lastOpenFiles": [
-    "200-Reference notes/聚合OR聚集（Aggregation）关系.md",
-    "000-Zettelkasten/适配器模式代码.md",
-    "000-Zettelkasten/装饰模式代码.md",
+    "000-Zettelkasten/外观模式代码.md",
+    "000-Zettelkasten/外观模式.md",
     "000-Zettelkasten/装饰模式.md",
-    "100-Files/装饰模式-2025-11-23-12-10-57.svg",
+    "000-Zettelkasten/装饰模式代码.md",
+    "100-Files/装饰模式代码-2025-11-23-12-34-12.svg",
+    "200-Reference notes/工厂方法模式代码.md",
+    "000-Zettelkasten/抽象工厂模式.md",
+    "200-Reference notes/抽象工厂方法代码.md",
+    "000-Zettelkasten/适配器模式与桥接模式.md",
+    "000-Zettelkasten/工厂方法模式.md",
+    "000-Zettelkasten/适配器模式.md",
+    "000-Zettelkasten/适配器模式代码.md",
+    "000-Zettelkasten/桥接模式.md",
+    "000-Zettelkasten/桥接模式代码.md",
+    "200-Reference notes/聚合OR聚集（Aggregation）关系.md",
+    "000-Zettelkasten/组合模式代码.md",
     "000-Zettelkasten/组合模式.md",
+    "100-Files/装饰模式-2025-11-23-12-10-57.svg",
     "200-Reference notes/依赖（dependency)关系.md",
     "200-Reference notes/实现（Realization）关系.md",
     "200-Reference notes/聚合与组合的区别与联系.md",
@@ -250,29 +276,18 @@
     "200-Reference notes/关联（Association）关系.md",
     "200-Reference notes/泛化与实现的区别与联系.md",
     "200-Reference notes/泛化（Generalization）关系.md",
-    "200-Reference notes/抽象工厂方法代码.md",
     "000-Zettelkasten/简单工厂模式.md",
-    "000-Zettelkasten/桥接模式.md",
-    "000-Zettelkasten/桥接模式代码.md",
-    "000-Zettelkasten/适配器模式.md",
-    "000-Zettelkasten/适配器模式与桥接模式.md",
-    "000-Zettelkasten/组合模式代码.md",
     "000-Zettelkasten/implement.md",
     "000-Zettelkasten/testLatex.md",
-    "000-Zettelkasten/抽象工厂模式.md",
     "100-Files/组合模式代码-2025-11-23-11-33-49.svg",
     "100-Files/作业3-2025-11-23-11-07-46.svg",
-    "统一建模语言与工具/作业3.md",
     "统一建模语言与工具",
     "100-Files/组合模式-2025-11-23-09-45-20.svg",
-    "666-Templates/Atomic Code.md",
-    "000-Zettelkasten/为何组合优于继承.md",
     "100-Files/桥接模式-2025-11-23-08-55-12.svg",
     "100-Files/桥接模式代码-2025-11-23-08-54-56.svg",
     "100-Files/适配器模式代码-2025-11-23-08-54-32.svg",
     "100-Files/适配器模式-2025-11-23-08-53-30.svg",
     "100-Files/工厂方法模式代码-2025-11-21-02-24-14.svg",
-    "100-Files/工厂方法模式代码-2025-11-21-02-22-02.svg",
     "新建 文本文档.txt",
     "HTML5移动应用开发",
     "未命名.canvas",
