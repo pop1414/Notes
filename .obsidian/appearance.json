@@ -2,9 +2,9 @@
   "interfaceFontFamily": "",
   "textFontFamily": "Consolas",
   "cssTheme": "Atom",
-  "accentColor": "#888caa",
+  "accentColor": "#5663c2",
   "monospaceFontFamily": "Consolas",
   "theme": "obsidian",
   "baseFontSizeAction": true,
-  "baseFontSize": 13
+  "baseFontSize": 14
 }

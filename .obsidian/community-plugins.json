@@ -3,5 +3,8 @@
   "obsidian-git",
   "dataview",
   "obsidian-plantuml",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-latex-suite",
+  "obsidian-vimrc-support",
+  "ace-code-editor"
 ]

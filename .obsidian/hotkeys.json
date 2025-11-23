@@ -16,15 +16,6 @@
       "key": "Q"
     }
   ],
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "workspace:close": [
     {
       "modifiers": [
@@ -58,7 +49,15 @@
       "key": "E"
     }
   ],
-  "markdown:toggle-preview": [],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
   "templater-obsidian:666-Templates/idea.md": [
     {
       "modifiers": [
@@ -67,5 +66,23 @@
       "key": "I"
     }
   ],
-  "editor:toggle-italics": []
+  "editor:toggle-italics": [],
+  "templater-obsidian:666-Templates/Atomic Word.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:insert-link": [],
+  "templater-obsidian:666-Templates/Atomic Code.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ]
 }

@@ -1,0 +1,25 @@
+{
+  "supportExtensions": [
+    "js",
+    "java"
+  ],
+  "lightTheme": "chrome",
+  "darkTheme": "one_dark",
+  "keyboard": "vim",
+  "showLineNumbers": true,
+  "fontSize": 14,
+  "fontFamily": [
+    "Consolas"
+  ],
+  "tabSize": 4,
+  "snippetsManager": {
+    "location": false,
+    "icon": "a-arrow-down"
+  },
+  "showPrintMargin": true,
+  "showInvisibles": false,
+  "displayIndentGuides": true,
+  "showFoldWidgets": true,
+  "embedMaxHeight": 500,
+  "wrap": true
+}

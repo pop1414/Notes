@@ -32,7 +32,9 @@
     "666-Templates/Atomic Note.md",
     "666-Templates/Index Note.md",
     "666-Templates/Relation Note.md",
-    "666-Templates/idea.md"
+    "666-Templates/idea.md",
+    "666-Templates/Atomic Word.md",
+    "666-Templates/Atomic Code.md"
   ],
   "startup_templates": [
     ""

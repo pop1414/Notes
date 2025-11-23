@@ -3,5 +3,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "000-Zettelkasten",
   "attachmentFolderPath": "100-Files",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "vimMode": true
 }
