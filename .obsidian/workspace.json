@@ -8,41 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29d88ab2ce0a7783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Zettelkasten/代理模式.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "代理模式"
-            }
-          },
-          {
-            "id": "018e0ea160a66a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Zettelkasten/代理模式代码.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "代理模式代码"
-            }
-          },
-          {
             "id": "a95bb46b3f56b2c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "000-Zettelkasten/职责链模式.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -73,8 +45,7 @@
               "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,12 +220,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c41b0e3cb24fa896",
+  "active": "a95bb46b3f56b2c6",
   "lastOpenFiles": [
+    "000-Zettelkasten/职责链模式代码.md",
+    "000-Zettelkasten/职责链模式.md",
+    "100-Files/职责链模式-2025-11-24-01-52-27.svg",
     "000-Zettelkasten/代理模式代码.md",
     "100-Files/代理模式代码-2025-11-24-01-23-58.svg",
-    "000-Zettelkasten/职责链模式.md",
-    "000-Zettelkasten/职责链模式代码.md",
     "000-Zettelkasten/代理模式.md",
     "100-Files/代理模式-2025-11-24-01-14-43.svg",
     "000-Zettelkasten/装饰模式代码.md",
@@ -286,7 +258,6 @@
     "统一建模语言与工具",
     "100-Files/组合模式-2025-11-23-09-45-20.svg",
     "100-Files/桥接模式-2025-11-23-08-55-12.svg",
-    "100-Files/桥接模式代码-2025-11-23-08-54-56.svg",
     "新建 文本文档.txt",
     "HTML5移动应用开发",
     "未命名.canvas",
