@@ -36,7 +36,35 @@
             }
           },
           {
-            "id": "20b29b5458292c77",
+            "id": "8032c650479e3412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Zettelkasten/迭代器模式.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "迭代器模式"
+            }
+          },
+          {
+            "id": "d732ce297162eeff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Zettelkasten/迭代器模式代码.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "迭代器模式代码"
+            }
+          },
+          {
+            "id": "98291539d0e711a2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -45,7 +73,8 @@
               "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Zettelkasten/命令模式.md",
+                "file": "000-Zettelkasten/迭代器模式代码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "命令模式 的大纲"
+              "title": "迭代器模式代码 的大纲"
             }
           },
           {
@@ -220,12 +249,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21894e68b9f5950a",
+  "active": "d732ce297162eeff",
   "lastOpenFiles": [
+    "100-Files/迭代器模式代码-2025-11-24-03-28-08.svg",
+    "000-Zettelkasten/迭代器模式.md",
+    "000-Zettelkasten/迭代器模式代码.md",
+    "100-Files/迭代器模式-2025-11-24-03-20-45.svg",
+    "100-Files/迭代器模式-2025-11-24-03-10-48.svg",
+    "000-Zettelkasten/命令模式代码.md",
+    "000-Zettelkasten/命令模式.md",
+    "100-Files/命令模式-2025-11-24-03-10-38.svg",
     "000-Zettelkasten/职责链模式代码.md",
     "000-Zettelkasten/职责链模式.md",
-    "000-Zettelkasten/命令模式.md",
-    "000-Zettelkasten/命令模式代码.md",
     "100-Files/职责链模式-2025-11-24-01-52-27.svg",
     "000-Zettelkasten/代理模式代码.md",
     "100-Files/代理模式代码-2025-11-24-01-23-58.svg",
@@ -250,15 +285,9 @@
     "000-Zettelkasten/适配器模式与桥接模式.md",
     "000-Zettelkasten/工厂方法模式.md",
     "000-Zettelkasten/适配器模式.md",
-    "000-Zettelkasten/适配器模式代码.md",
-    "000-Zettelkasten/桥接模式.md",
-    "000-Zettelkasten/桥接模式代码.md",
     "100-Files/装饰模式-2025-11-23-12-10-57.svg",
     "100-Files/组合模式代码-2025-11-23-11-33-49.svg",
-    "100-Files/作业3-2025-11-23-11-07-46.svg",
     "统一建模语言与工具",
-    "100-Files/组合模式-2025-11-23-09-45-20.svg",
-    "100-Files/桥接模式-2025-11-23-08-55-12.svg",
     "新建 文本文档.txt",
     "HTML5移动应用开发",
     "未命名.canvas",
