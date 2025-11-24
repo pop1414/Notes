@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a95bb46b3f56b2c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Zettelkasten/职责链模式.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "职责链模式"
-            }
-          },
-          {
             "id": "21894e68b9f5950a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Zettelkasten/职责链模式代码.md",
+                "file": "000-Zettelkasten/命令模式.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "职责链模式代码"
+              "title": "命令模式"
+            }
+          },
+          {
+            "id": "01b9337f462caca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Zettelkasten/命令模式代码.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "命令模式代码"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Zettelkasten/职责链模式.md",
+                "file": "000-Zettelkasten/命令模式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "职责链模式 的大纲"
+              "title": "命令模式 的大纲"
             }
           },
           {
@@ -220,10 +220,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a95bb46b3f56b2c6",
+  "active": "21894e68b9f5950a",
   "lastOpenFiles": [
     "000-Zettelkasten/职责链模式代码.md",
     "000-Zettelkasten/职责链模式.md",
+    "000-Zettelkasten/命令模式.md",
+    "000-Zettelkasten/命令模式代码.md",
     "100-Files/职责链模式-2025-11-24-01-52-27.svg",
     "000-Zettelkasten/代理模式代码.md",
     "100-Files/代理模式代码-2025-11-24-01-23-58.svg",
@@ -251,7 +253,6 @@
     "000-Zettelkasten/适配器模式代码.md",
     "000-Zettelkasten/桥接模式.md",
     "000-Zettelkasten/桥接模式代码.md",
-    "200-Reference notes/聚合OR聚集（Aggregation）关系.md",
     "100-Files/装饰模式-2025-11-23-12-10-57.svg",
     "100-Files/组合模式代码-2025-11-23-11-33-49.svg",
     "100-Files/作业3-2025-11-23-11-07-46.svg",
