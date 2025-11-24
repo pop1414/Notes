@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "000-Zettelkasten/命令模式.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -28,39 +28,11 @@
               "type": "markdown",
               "state": {
                 "file": "000-Zettelkasten/命令模式代码.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "命令模式代码"
-            }
-          },
-          {
-            "id": "8032c650479e3412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Zettelkasten/迭代器模式.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "迭代器模式"
-            }
-          },
-          {
-            "id": "d732ce297162eeff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Zettelkasten/迭代器模式代码.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "迭代器模式代码"
+              "title": "命令模式代码"
             }
           },
           {
@@ -74,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,15 +221,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d732ce297162eeff",
+  "active": "01b9337f462caca3",
   "lastOpenFiles": [
+    "100-Files/命令模式代码-2025-11-24-03-52-42.svg",
+    "000-Zettelkasten/命令模式.md",
+    "000-Zettelkasten/命令模式代码.md",
+    "000-Zettelkasten/迭代器模式代码.md",
     "100-Files/迭代器模式代码-2025-11-24-03-28-08.svg",
     "000-Zettelkasten/迭代器模式.md",
-    "000-Zettelkasten/迭代器模式代码.md",
     "100-Files/迭代器模式-2025-11-24-03-20-45.svg",
     "100-Files/迭代器模式-2025-11-24-03-10-48.svg",
-    "000-Zettelkasten/命令模式代码.md",
-    "000-Zettelkasten/命令模式.md",
     "100-Files/命令模式-2025-11-24-03-10-38.svg",
     "000-Zettelkasten/职责链模式代码.md",
     "000-Zettelkasten/职责链模式.md",
@@ -286,7 +259,6 @@
     "000-Zettelkasten/工厂方法模式.md",
     "000-Zettelkasten/适配器模式.md",
     "100-Files/装饰模式-2025-11-23-12-10-57.svg",
-    "100-Files/组合模式代码-2025-11-23-11-33-49.svg",
     "统一建模语言与工具",
     "新建 文本文档.txt",
     "HTML5移动应用开发",
