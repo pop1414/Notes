@@ -18,21 +18,7 @@
             }
           },
           {
-            "id": "65174138c23d6f45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp-computer networking/什么是Internet.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "什么是Internet"
-            }
-          },
-          {
-            "id": "a917dc18a61cc74e",
+            "id": "3798233e6a57d401",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,21 +32,49 @@
             }
           },
           {
-            "id": "c2350f1d04581efa",
+            "id": "65174138c23d6f45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp-computer networking/协议.md",
+                "file": "temp-computer networking/什么是协议.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "协议"
+              "title": "什么是协议"
+            }
+          },
+          {
+            "id": "42e8ff57730b95ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp-computer networking/什么是Internet.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "什么是Internet"
+            }
+          },
+          {
+            "id": "13a50e0fc5e8a2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp-computer networking/具体构成描述.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "具体构成描述"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,15 +249,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2350f1d04581efa",
+  "active": "13a50e0fc5e8a2b8",
   "lastOpenFiles": [
     "temp-computer networking/什么是Internet.md",
-    "temp-computer networking/协议.md",
+    "temp-computer networking/具体构成描述.md",
+    "temp-computer networking/网络边缘.md",
+    "temp-computer networking/计算机网络第一章.md",
+    "temp-computer networking/什么是协议.md",
     "temp-computer networking/因特网服务提供商.md",
+    "temp-computer networking/协议.md",
     "temp-computer networking/端系统.md",
-    "temp-computer networking/protocol.md",
     "temp-computer networking/分组交换机.md",
+    "temp-computer networking/因特网标准.md",
     "temp-computer networking/通信链路.md",
+    "000-Zettelkasten/快速原型模型.md",
+    "temp-computer networking/protocol.md",
     "temp-computer networking",
     "000-Zettelkasten/传统方法学idea.md",
     "HTML5移动应用开发/需求分析和项目进度安排.md",
@@ -265,16 +285,10 @@
     "000-Zettelkasten/增量模型与螺旋模型的联系与区别.md",
     "100-Files/Pasted image 20251209164703.png",
     "100-Files/Pasted image 20251209163820.png",
-    "原型/快速原型模型.md",
     "100-Files/Pasted image 20251209162916.png",
     "原型",
     "000-Zettelkasten/V模型.md",
     "100-Files/Pasted image 20251209161810.png",
-    "000-Zettelkasten/瀑布模型.md",
-    "200-Reference notes/面向对象方法学.md",
-    "000-Zettelkasten/传统方法学.md",
-    "000-Zettelkasten/软件生命周期.md",
-    "000-Zettelkasten/软件工程的基本原理.md",
     "统一建模语言与工具",
     "新建 文本文档.txt",
     "HTML5移动应用开发",
