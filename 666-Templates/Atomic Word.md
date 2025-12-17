@@ -6,7 +6,6 @@ aliases:
 tags:
   - cet6
   - verb
-  - zettelkasten
 date: <% tp.file.creation_date() %>
 ---
 

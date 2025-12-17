@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b884258933fe56e",
+        "id": "59dce874cae7d17f",
         "type": "tabs",
         "children": [
           {
-            "id": "21894e68b9f5950a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Zettelkasten/命令模式.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "命令模式"
-            }
-          },
-          {
-            "id": "01b9337f462caca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Zettelkasten/命令模式代码.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "命令模式代码"
-            }
-          },
-          {
-            "id": "98291539d0e711a2",
+            "id": "7985941fa3bd10cd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,9 +16,51 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
+          },
+          {
+            "id": "65174138c23d6f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp-computer networking/什么是Internet.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "什么是Internet"
+            }
+          },
+          {
+            "id": "a917dc18a61cc74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp-computer networking/因特网服务提供商.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "因特网服务提供商"
+            }
+          },
+          {
+            "id": "c2350f1d04581efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp-computer networking/协议.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "协议"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,44 +235,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01b9337f462caca3",
+  "active": "c2350f1d04581efa",
   "lastOpenFiles": [
-    "100-Files/命令模式代码-2025-11-24-03-52-42.svg",
-    "000-Zettelkasten/命令模式.md",
-    "000-Zettelkasten/命令模式代码.md",
-    "000-Zettelkasten/迭代器模式代码.md",
-    "100-Files/迭代器模式代码-2025-11-24-03-28-08.svg",
-    "000-Zettelkasten/迭代器模式.md",
-    "100-Files/迭代器模式-2025-11-24-03-20-45.svg",
-    "100-Files/迭代器模式-2025-11-24-03-10-48.svg",
-    "100-Files/命令模式-2025-11-24-03-10-38.svg",
-    "000-Zettelkasten/职责链模式代码.md",
-    "000-Zettelkasten/职责链模式.md",
-    "100-Files/职责链模式-2025-11-24-01-52-27.svg",
-    "000-Zettelkasten/代理模式代码.md",
-    "100-Files/代理模式代码-2025-11-24-01-23-58.svg",
-    "000-Zettelkasten/代理模式.md",
-    "100-Files/代理模式-2025-11-24-01-14-43.svg",
-    "000-Zettelkasten/装饰模式代码.md",
-    "000-Zettelkasten/外观模式代码.md",
-    "666-Templates/Atomic Note.md",
-    "000-Zettelkasten/装饰模式.md",
-    "000-Zettelkasten/外观模式.md",
-    "666-Templates/Relation Note.md",
-    "666-Templates/Index Note.md",
-    "666-Templates/idea.md",
-    "666-Templates/Atomic Word.md",
-    "666-Templates/Atomic Code.md",
-    "000-Zettelkasten/外观模式与装饰模式的区别与联系.md",
-    "100-Files/外观模式-2025-11-23-13-00-54.svg",
-    "100-Files/装饰模式代码-2025-11-23-12-34-12.svg",
-    "200-Reference notes/工厂方法模式代码.md",
-    "000-Zettelkasten/抽象工厂模式.md",
-    "200-Reference notes/抽象工厂方法代码.md",
-    "000-Zettelkasten/适配器模式与桥接模式.md",
-    "000-Zettelkasten/工厂方法模式.md",
-    "000-Zettelkasten/适配器模式.md",
-    "100-Files/装饰模式-2025-11-23-12-10-57.svg",
+    "temp-computer networking/什么是Internet.md",
+    "temp-computer networking/协议.md",
+    "temp-computer networking/因特网服务提供商.md",
+    "temp-computer networking/端系统.md",
+    "temp-computer networking/protocol.md",
+    "temp-computer networking/分组交换机.md",
+    "temp-computer networking/通信链路.md",
+    "temp-computer networking",
+    "000-Zettelkasten/传统方法学idea.md",
+    "HTML5移动应用开发/需求分析和项目进度安排.md",
+    "000-Zettelkasten/软件是什么与其特点.md",
+    "000-Zettelkasten/数据流图.md",
+    "100-Files/Pasted image 20251210090007.png",
+    "100-Files/Pasted image 20251210084512.png",
+    "000-Zettelkasten/系统流程图.md",
+    "100-Files/Pasted image 20251210083708.png",
+    "000-Zettelkasten/渐增式开发.md",
+    "200-Reference notes/可行性研究过程.md",
+    "000-Zettelkasten/软件过程.md",
+    "100-Files/Pasted image 20251210083110.png",
+    "100-Files/Pasted image 20251210083056.png",
+    "200-Reference notes/可行性研究的任务.md",
+    "000-Zettelkasten/软件工程方法学.md",
+    "000-Zettelkasten/阶段式开发.md",
+    "100-Files/Pasted image 20251209165632.png",
+    "000-Zettelkasten/增量模型与螺旋模型的联系与区别.md",
+    "100-Files/Pasted image 20251209164703.png",
+    "100-Files/Pasted image 20251209163820.png",
+    "原型/快速原型模型.md",
+    "100-Files/Pasted image 20251209162916.png",
+    "原型",
+    "000-Zettelkasten/V模型.md",
+    "100-Files/Pasted image 20251209161810.png",
+    "000-Zettelkasten/瀑布模型.md",
+    "200-Reference notes/面向对象方法学.md",
+    "000-Zettelkasten/传统方法学.md",
+    "000-Zettelkasten/软件生命周期.md",
+    "000-Zettelkasten/软件工程的基本原理.md",
     "统一建模语言与工具",
     "新建 文本文档.txt",
     "HTML5移动应用开发",
@@ -268,8 +284,6 @@
     "666-Templates/Files",
     "999-Index",
     "Zettelkasten/未命名.base",
-    "Zettelkasten/未命名 1.base",
-    "Templates/Untitled.base",
-    "200-Reference notes"
+    "Zettelkasten/未命名 1.base"
   ]
 }

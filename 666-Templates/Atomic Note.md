@@ -22,20 +22,9 @@ aliases: []
 ## 正文
 
 
-
-
-
-
-
-## 实际代码/示例
-```plantuml-svg
-@startuml 
-Alice -> Bob: Hello 
-Bob --> Alice: Hi! 
-@enduml
-```
-
 ## 相关链接
 [[]]
+
+## References
 
 

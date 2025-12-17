@@ -84,5 +84,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "templater-obsidian:666-Templates/Atomic Reference.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
