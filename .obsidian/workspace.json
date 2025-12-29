@@ -4,77 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "59dce874cae7d17f",
+        "id": "a7283b8b40b3b253",
         "type": "tabs",
         "children": [
           {
-            "id": "7985941fa3bd10cd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "3798233e6a57d401",
+            "id": "0fa784642be38a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp-computer networking/因特网服务提供商.md",
+                "file": "企业实训/RABC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "因特网服务提供商"
-            }
-          },
-          {
-            "id": "65174138c23d6f45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp-computer networking/什么是协议.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "什么是协议"
-            }
-          },
-          {
-            "id": "42e8ff57730b95ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp-computer networking/什么是Internet.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "什么是Internet"
-            }
-          },
-          {
-            "id": "13a50e0fc5e8a2b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp-computer networking/具体构成描述.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "具体构成描述"
+              "title": "RABC"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,46 +196,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13a50e0fc5e8a2b8",
+  "active": "0fa784642be38a90",
   "lastOpenFiles": [
+    "100-Files/Pasted image 20251229141935.png",
+    "100-Files/Pasted image 20251229133153.png",
+    "HTML5移动应用开发/需求分析和项目进度安排.md",
+    "企业实训/RABC.md",
+    "企业实训",
+    "temp-computer networking/存储转发传输.md",
+    "temp-computer networking/协议.md",
+    "temp-computer networking/网络核心.md",
+    "temp-computer networking/协议层次.md",
+    "temp-computer networking/计算机网络第一章.md",
+    "temp-computer networking/排队时延和分组丢失.md",
+    "temp-computer networking/转发表和路由选择协议.md",
+    "temp-computer networking/分组交换.md",
+    "temp-computer networking/链路.md",
+    "temp-computer networking/通信链路.md",
+    "temp-computer networking/分组交换机.md",
+    "temp-computer networking/带宽.md",
+    "temp-computer networking/链路传输速率.md",
+    "temp-computer networking/分组.md",
+    "temp-computer networking/报文.md",
     "temp-computer networking/什么是Internet.md",
     "temp-computer networking/具体构成描述.md",
     "temp-computer networking/网络边缘.md",
-    "temp-computer networking/计算机网络第一章.md",
+    "temp-computer networking/物理媒介.md",
+    "temp-computer networking/接入网.md",
     "temp-computer networking/什么是协议.md",
-    "temp-computer networking/因特网服务提供商.md",
-    "temp-computer networking/协议.md",
     "temp-computer networking/端系统.md",
-    "temp-computer networking/分组交换机.md",
-    "temp-computer networking/因特网标准.md",
-    "temp-computer networking/通信链路.md",
-    "000-Zettelkasten/快速原型模型.md",
-    "temp-computer networking/protocol.md",
+    "temp-computer networking/因特网服务提供商.md",
     "temp-computer networking",
-    "000-Zettelkasten/传统方法学idea.md",
-    "HTML5移动应用开发/需求分析和项目进度安排.md",
-    "000-Zettelkasten/软件是什么与其特点.md",
-    "000-Zettelkasten/数据流图.md",
     "100-Files/Pasted image 20251210090007.png",
     "100-Files/Pasted image 20251210084512.png",
-    "000-Zettelkasten/系统流程图.md",
     "100-Files/Pasted image 20251210083708.png",
-    "000-Zettelkasten/渐增式开发.md",
-    "200-Reference notes/可行性研究过程.md",
-    "000-Zettelkasten/软件过程.md",
     "100-Files/Pasted image 20251210083110.png",
     "100-Files/Pasted image 20251210083056.png",
-    "200-Reference notes/可行性研究的任务.md",
-    "000-Zettelkasten/软件工程方法学.md",
-    "000-Zettelkasten/阶段式开发.md",
     "100-Files/Pasted image 20251209165632.png",
-    "000-Zettelkasten/增量模型与螺旋模型的联系与区别.md",
     "100-Files/Pasted image 20251209164703.png",
     "100-Files/Pasted image 20251209163820.png",
     "100-Files/Pasted image 20251209162916.png",
     "原型",
-    "000-Zettelkasten/V模型.md",
-    "100-Files/Pasted image 20251209161810.png",
     "统一建模语言与工具",
     "新建 文本文档.txt",
     "HTML5移动应用开发",
@@ -297,7 +245,6 @@
     "聚合",
     "666-Templates/Files",
     "999-Index",
-    "Zettelkasten/未命名.base",
-    "Zettelkasten/未命名 1.base"
+    "Zettelkasten/未命名.base"
   ]
 }
